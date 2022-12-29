@@ -71,6 +71,8 @@ Baixe o arquivo TTS-Live Simple Offline na [release](https://github.com/CrashXBE
 [Opcional] Para Windows: Instale a driver [VB-Audio Virtual](https://vb-audio.com/Cable/) ou para cross-platform: conecte o cabo AUX da saída de audio na entrada de microfone.
 
 ## Uso
+Para usar VB-Audio Virtual, configure o áudio para redirecionar ao microfone.
+
 Execute o emulador de terminal com pasta onde o arquivo TTS-Live Simple está.
 
 Abre o arquivo TTS-Live Simple com comando `python "TTS-Live Simple Online"` ou `python "TTS-Live Simple Offline"`
