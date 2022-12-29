@@ -42,7 +42,6 @@ TTS-Live Simple Offline usa uma biblioteca [pyttsx3](https://github.com/nateshmb
   <li>Windows - SAPI5 (Testado)</li> 
   <li>Mac OS - NSSpeechSynthesizer (Não testado)</li>
   <li>Linux - espeak (Não testado)</li>
-  <li><a href="https://vb-audio.com/Cable"> [Opcional] VB-Audio CABLE</li>
 </list>
 
 ##### Pré-requisitos
@@ -50,6 +49,7 @@ TTS-Live Simple Offline usa uma biblioteca [pyttsx3](https://github.com/nateshmb
   <li><a href="https://www.python.org/downloads"> A versão mais recente do Python 3</li>
   <li><a href="https://github.com/nateshmbhat/pyttsx3"> pyttsx3</li>
   <li>Sistema operacional com motor de TTS que pyttsx3 suporta</li>
+  <li><a href="https://vb-audio.com/Cable"> [Opcional] VB-Audio CABLE</li>
 </list>
 
 ## Instalação
