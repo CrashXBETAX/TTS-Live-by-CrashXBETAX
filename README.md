@@ -21,7 +21,7 @@
 ## Sobre o projeto
 ### Objetivo:
 
-Esse projeto é a conversão de texto em voz e reproduzir instantânea off-line por emulador de terminal. A saída de áudio pode redirecionar para microfone usando algum programa como VB-Cable Virtual. Será útil para pessoa com deficiência auditiva em reunião com ouvintes.
+Esse projeto é a conversão de texto em voz e reproduzir instantânea por emulador de terminal. A saída de áudio pode redirecionar para microfone usando algum programa como VB-Cable Virtual. Será útil para pessoa com deficiência auditiva em reunião com ouvintes.
 
 #### Online
 TTS-Live Simple Online usa uma biblioteca [gTTS](https://github.com/pndurette/gTTS) que usa a API de conversão de texto em voz do Google Tradutor. 
