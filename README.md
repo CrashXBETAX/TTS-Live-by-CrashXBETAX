@@ -11,12 +11,6 @@
     <li>
       <a href="#sobre-o-projeto">Sobre o projeto</a>
     </li>
-    <li>
-      <a href="#online">Online</a>
-    </li>
-    <li>
-      <a href="#offline">Offline</a>
-    </li>
     <li><a href="#instalação">Instalação</a></li>
     <li><a href="#uso">Uso</a></li>
     <li><a href="#licença">Licença</a></li>
