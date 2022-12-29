@@ -31,7 +31,7 @@ TTS-Live Simple Online usa uma biblioteca [gTTS](https://github.com/pndurette/gT
   <li><a href="https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5"> A versão 3.10 do Python do Microsoft Store</li>
   <li><a href="https://github.com/pndurette/gTTS"> gTTS</li>
   <li><a href="https://pyglet.org"> pyglet</li>
-  <li><a href="https://vb-audio.com/Cable"> [Opcional]VB-Audio CABLE</li>
+  <li><a href="https://vb-audio.com/Cable"> [Opcional] VB-Audio CABLE</li>
 </list>
 
 #### Offline
@@ -42,7 +42,7 @@ TTS-Live Simple Offline usa uma biblioteca [pyttsx3](https://github.com/nateshmb
   <li>Windows - SAPI5 (Testado)</li> 
   <li>Mac OS - NSSpeechSynthesizer (Não testado)</li>
   <li>Linux - espeak (Não testado)</li>
-  <li><a href="https://vb-audio.com/Cable"> [Opcional]VB-Audio CABLE</li>
+  <li><a href="https://vb-audio.com/Cable"> [Opcional] VB-Audio CABLE</li>
 </list>
 
 ##### Pré-requisitos
