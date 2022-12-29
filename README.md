@@ -60,9 +60,10 @@ Instale a biblioteca [gTTS](https://github.com/pndurette/gTTS) com comando `pip 
 
 Instale a biblioteca [pyglet](https://pyglet.org) com comando `pip install pyglet` pelo emulador de terminal
 
+Baixe o arquivo TTS-Live Simple Online na [release](https://github.com/CrashXBETAX/TTS-Live-by-CrashXBETAX/releases)
+
 [Opcional] Para Windows: Instale a driver [VB-Audio Virtual](https://vb-audio.com/Cable/) ou cross-platform: conecte o cabo AUX da saída de audio na entrada de microfone.
 
-Baixe o arquivo TTS-Live Simple Online na [release](https://github.com/CrashXBETAX/TTS-Live-by-CrashXBETAX/releases)
 ### Offline:
 Instale [a versão mais recente do Python](https://www.python.org/downloads)
 
