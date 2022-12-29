@@ -78,7 +78,7 @@ Para usar VB-Audio Virtual, configure o áudio para redirecionar ao microfone.
 
 Execute o emulador de terminal com pasta onde o arquivo TTS-Live Simple está.
 
-Abre o arquivo TTS-Live Simple com comando `python "TTS-Live Simple Online"` ou `python "TTS-Live Simple Offline"`
+Abre o arquivo TTS-Live Simple com comando `python "TTS-Live Simple Online.py"` ou `python "TTS-Live Simple Offline.py"`
 
 Para usar umas frases prontas, digite número no terminal. Clique em Enter para converter e reproduzir o áudio (Podem personalizar frases prontas)
 
