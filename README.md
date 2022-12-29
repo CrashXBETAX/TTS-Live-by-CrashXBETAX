@@ -80,6 +80,10 @@ Execute o emulador de terminal com pasta onde o arquivo TTS-Live Simple está.
 
 Abre o arquivo TTS-Live Simple com comando `python "TTS-Live Simple Online"` ou `python "TTS-Live Simple Offline"`
 
+Para usar umas frases prontas, digite número no terminal. Clique em Enter para converter e reproduzir o áudio (Podem personalizar frases prontas)
+
+Para digitar frase, digite no terminal. Clique em Enter para converter e reproduzir o áudio
+
 ## Licença
 Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.<br>
 
